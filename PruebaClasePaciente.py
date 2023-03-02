@@ -1,4 +1,4 @@
-from logicadenegocio2largo import paciente
+from LógicaDelNegocio import Paciente
 
 print("caso 1")
 Martina = Paciente("Martina De Luque",6,0.55,2022,4,28,"f")
